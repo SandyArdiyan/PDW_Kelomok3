@@ -2,3 +2,6 @@ Plan UML (Use Case ) ![plantUML_new](https://github.com/user-attachments/assets/
 
 
 Resume Individu : https://drive.google.com/file/d/1HiUqvNi3SnpeUqK0uPtbzQlqmnPNK6la/view?usp=sharing
+
+
+File Naskah Kelompok 3 : https://drive.google.com/file/d/1SiS5qYOsQ-gb6m2CVAmcBt9I5aUIM9G2/view?usp=sharing
